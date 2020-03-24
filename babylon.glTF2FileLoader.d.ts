@@ -1,4 +1,4 @@
-import { IGLTFValidationResults } from "babylon.gltf2interface";
+
 
 declare module BABYLON {
     /**
